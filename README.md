@@ -5,7 +5,7 @@ Este projeto é um sistema de cadastro de endereços desenvolvido com HTML, CSS,
 
 
 <video>
-  <source src="gifcep.mp4" type="video/mp4">
+  <source src="gifcep.mp4">
 </video>
  
 ## Funcionalidades
